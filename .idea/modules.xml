@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BaiduMapDemo.iml" filepath="$PROJECT_DIR$/BaiduMapDemo.iml" />
+      <module fileurl="file://C:\Users\DVO\Desktop\BaiduMapLocationDemo\BaiduMapDemo.iml" filepath="C:\Users\DVO\Desktop\BaiduMapLocationDemo\BaiduMapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiduMapLocationDemo.iml" filepath="$PROJECT_DIR$/BaiduMapLocationDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
